@@ -1,27 +1,30 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #7289DA; /* Azul Discord */
-    color: #FFFFFF; /* Blanco */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f9; /* Un tono suave de azul */
+    color: #333;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
+header {
+    background-color: #5d55fa; /* Un tono de azul */
+    color: #fff;
+    padding: 10px 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
     padding: 20px;
-    background-color: #7289DA; /* Azul Discord */
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: #e0e0ff; /* Un tono más claro de azul */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
-    text-align: center;
-    color: #5865F2; /* Azul Discord más claro */
-}
-
-p {
-    margin-bottom: 10px;
-}
-
-strong {
-    color: #9B51E0; /* Morado Discord */
+section p {
+    font-size: 1.2em;
+    color: #4b0082; /* Un tono de morado */
 }
