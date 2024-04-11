@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #7289DA; /* Azul Discord */
+    color: #FFFFFF; /* Blanco */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #7289DA; /* Azul Discord */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+    color: #5865F2; /* Azul Discord más claro */
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #9B51E0; /* Morado Discord */
+}
